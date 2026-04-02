@@ -65,7 +65,8 @@ http://3.8.159.2:3000
 
 ## Screenshots
 
-(Add your screenshots here)
+(<img width="1145" height="835" alt="image" src="https://github.com/user-attachments/assets/cf2f572e-e18c-4a90-b9e2-ba4f7ad663dd" />
+)
 
 1. Live portfolio landing page
 2. EC2 instance running
