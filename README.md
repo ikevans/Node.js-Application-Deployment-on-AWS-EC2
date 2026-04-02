@@ -67,13 +67,23 @@ http://3.8.159.2:3000
 
 <img width="1145" height="835" alt="image" src="https://github.com/user-attachments/assets/cf2f572e-e18c-4a90-b9e2-ba4f7ad663dd" />
 
+
 <img width="940" height="320" alt="image" src="https://github.com/user-attachments/assets/7c4e2c49-8dc5-41d0-b043-0e94af5c3070" />
+
 
 <img width="885" height="175" alt="image" src="https://github.com/user-attachments/assets/c0549175-fc93-44dc-a631-c8f60791f74a" />
 
+
 <img width="935" height="124" alt="image" src="https://github.com/user-attachments/assets/ada948ac-4dad-4b48-be8f-d5c9f1ca5e59" />
 
+
 <img width="992" height="390" alt="image" src="https://github.com/user-attachments/assets/0529d770-dc1f-4a5a-9522-aa9a897ae518" />
+
+<img width="940" height="142" alt="image" src="https://github.com/user-attachments/assets/8550d5e3-efb3-4210-b5d0-49b91334259e" />
+
+<img width="965" height="426" alt="image" src="https://github.com/user-attachments/assets/4655453a-b28d-4afa-b1df-e4d202ca6a0b" />
+
+
 
 
 1. Live portfolio landing page
